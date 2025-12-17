@@ -42,3 +42,18 @@ This project was built as an **MVP Full-Stack Assignment** focusing on robustnes
 
 ## 📂 Project Structure
 
+```bash
+Universal_Website_Scraper/
+│
+├── app/ # Backend source code
+├── templates/ # Frontend templates
+├── static/ # UI assets (if any)
+├── run.sh # One-command run script
+├── requirements.txt # Dependencies
+├── README.md # Project documentation
+├── design_notes.md # Design & strategy explanation
+├── capabilities.json # Implemented feature checklist
+└── main.py # Application entry point
+```
+
+---
