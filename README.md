@@ -192,6 +192,7 @@ Contributions are welcome! You can:
 - Suggest features
 
 - Submit pull requests
+
 Please follow the repository’s issue templates and coding standards.
 ---
 
