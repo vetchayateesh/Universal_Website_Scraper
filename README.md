@@ -193,7 +193,7 @@ Contributions are welcome! You can:
 
 - Submit pull requests
 
-Please follow the repository’s issue templates and coding standards.
+#### Please follow the repository’s issue templates and coding standards.
 ---
 
 ## 📄 License
