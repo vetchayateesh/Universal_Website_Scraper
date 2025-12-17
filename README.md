@@ -192,16 +192,17 @@ Contributions are welcome! You can:
 - Suggest features
 
 - Submit pull requests
-
 Please follow the repository’s issue templates and coding standards.
 ---
 
 ## 📄 License
 
-This project does not yet specify a license. Consider adding a license file (e.g., MIT, Apache-2.0) to clarify usage rights.
+This project does not yet specify a license. Consider adding a license file (e.g., MIT, Apache-2.0) to clarify usage rights
+
 ---
 
 ## 📌 About
 
 Universal Website Scraper was developed as an MVP full-stack assignment with a focus on robustness, clarity, and real-world usability. It’s ideal for anyone looking to build powerful scraping tools backed by modern Python frameworks.
+
 ---
